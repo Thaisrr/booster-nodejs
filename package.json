@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "présentation de node js",
+  "main": "hello.mjs",
+  "scripts": {
+    "start" : "node hello.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
